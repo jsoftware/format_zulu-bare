@@ -2,7 +2,7 @@ NB. zulu-bare manifest
 
 CAPTION=: 'Strings conversion package: BARE version'
 
-VERSION=: '0.0.1'
+VERSION=: '0.0.4'
 
 FILES=: 0 : 0
 manifest.ijs
@@ -12,6 +12,7 @@ zulu-bare.ijs
 
 DESCRIPTION=: 0 : 0
 Addon: zulu-bare - is a set of strings conversion verbs in _z_.
+For more details, refer to the description of addon: zulu.
 This is the "bare" version, without the "trivials" patch
 and with no aliases, just the *2* verbs.
 )
