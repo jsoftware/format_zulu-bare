@@ -25,4 +25,4 @@ RELEASE=: 'j602 j701 j801 j802'
 
 LABCATEGORY=: 'Format'
 
-PLATFORMS=: 'linux win darwin android'
+PLATFORMS=: ''
