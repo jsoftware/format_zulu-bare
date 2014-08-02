@@ -2,7 +2,7 @@ NB. zulu-bare manifest
 
 CAPTION=: 'Strings conversion package: BARE version'
 
-VERSION=: '0.0.7'
+VERSION=: '0.0.8'
 
 FILES=: 0 : 0
 manifest.ijs
@@ -21,7 +21,7 @@ DEPENDS=: 0 : 0
 format/zulu
 )
 
-RELEASE=: 'j602 j701 j801 j802'
+RELEASE=: 'j602 j701 j801 j802 j803'
 
 LABCATEGORY=: 'Format'
 
